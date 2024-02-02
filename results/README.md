@@ -3,6 +3,8 @@ The Time Usage project successfully processed and summarized the American Time U
 
 The results are presented below:
 
+![Results](./Results.PNG)
+
 
 Analysis of Results
 The summarized data provides a comprehensive view of how employment status, gender, and age impact the distribution of time among primary needs, work, and leisure activities. 
