@@ -1,1 +1,1 @@
-# -LifePatterns-Time-Use-Across-Demographics-
+# LifePatterns Time Use Across Demographics
